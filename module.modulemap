@@ -1,0 +1,6 @@
+module CGL [system] {
+  link "glapi"
+  link "EGL"
+  link "GL"
+  export *
+}
